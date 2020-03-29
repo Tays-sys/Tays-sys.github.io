@@ -7,12 +7,12 @@ published: true
 date: '2020-03-23'
 ---
 
-- Mestrado em Estatística Aplicada e Biometria  
-Universidade Federal de Viçosa(UFV)  
-Período 2016 – 2018  
+- Mestrado em agronomia (produção vegetal)
+Universidade Federal do Mato Grosso do Sul (UFMS)
+Período 2018 – 2020  
 
 
 
-- Graduação em Licenciatura em Matemática  
-Universidade Federal de Viçosa(UFV)  
-Período 2010 - 2016  
+- Graduação em Engenharia Florestal   
+Universidade Federal do Mato Grosso do Sul (UFMS)  
+Período 2010 - 2015
