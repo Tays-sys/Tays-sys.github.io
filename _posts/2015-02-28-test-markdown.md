@@ -12,4 +12,4 @@ published: true
 date: '2020-03-23'
 ---
 
-## Bem vindo (a) a minha página
+# Bem vindo (a) a minha página
